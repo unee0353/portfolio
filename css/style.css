@@ -93,6 +93,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 .in_header{
   padding: 3em;
+  box-sizing: border-box;
   position: relative;
   height: 100%;
 }
