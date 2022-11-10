@@ -92,7 +92,7 @@ h1, h2, h3, h4, h5, h6 {
   text-shadow: none;
 }
 .in_header{
-  padding: 7em;
+  padding: 5em;
   box-sizing: border-box;
   position: relative;
   height: 100%;
@@ -271,18 +271,9 @@ h1, h2, h3, h4, h5, h6 {
   position: relative;
   color: #fff;
   font-weight: 400;
-}
-.epilogue span::after{
-  display: inline-block;
-  content: '';
-  width: 77px;
-  height: 27px;
   background-color: #1363df;
-  position: absolute;
-  top: -2px;
-  left: -3px;
-  z-index: -1;
 }
+
 @media (max-width: 991px){
   .info {
     margin: 0;
