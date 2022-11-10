@@ -1351,7 +1351,7 @@ padding-top:30px;}
   }
 
 }
-@media (max-width: 620px){
+@media (max-width: 991px){
   .in_header{
     height: 100vh;
   }
