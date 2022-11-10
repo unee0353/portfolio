@@ -92,8 +92,7 @@ h1, h2, h3, h4, h5, h6 {
   text-shadow: none;
 }
 .in_header{
-  padding: 20px;
-  box-sizing: border-box;
+  padding: 3em;
   position: relative;
   height: 100%;
 }
@@ -118,12 +117,12 @@ h1, h2, h3, h4, h5, h6 {
 }
 .in_header .info_box{
   position: absolute;
-  bottom: 20px;
+  bottom: 3em;
 }
 .in_header img{
   position: absolute;
-  bottom: 20px;
-  right: 20px;
+  bottom: 3em;
+  right: 3em;
   width: 55px;
 }
 
